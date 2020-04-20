@@ -11,14 +11,14 @@ body{
 	display: block;
 	background-color: #af80b3ab;
 	color: black;
-	font-size: 22px;
+	font-size: 25px;
 }
 
 
 .web{
 	margin: 2rem auto;
 	padding: 1rem 1.4rem;
-	max-width: 40rem;
+	max-width: 35rem;
 }
 .lorem{
 	display: none;
@@ -36,4 +36,8 @@ button{
 	border-radius: 20px;
 	letter-spacing: 1px;
 	border:none;
+}
+
+button:hover, button:focus{
+	cursor: pointer;
 }
