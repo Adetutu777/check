@@ -1,6 +1,5 @@
 
 
-
 body{
 
 	font-family:sans-serif; 
@@ -53,6 +52,8 @@ button:hover, button:focus{
     font-size: 40px;
     padding-top: 0;
     text-align: left;
+    margin-bottom: 1.4rem;
+
 
   }
 }
