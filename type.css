@@ -45,7 +45,8 @@ button:hover, button:focus{
 
 @media screen  {
   .my-col {
-    font-size: 50px;
+    font-size: 52px;
+    padding-top: 0;
   }
 }
 
