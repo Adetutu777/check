@@ -1,5 +1,6 @@
 
 
+
 body{
 
 	font-family:sans-serif; 
@@ -39,7 +40,8 @@ button{
 	letter-spacing: 1.5px;
 	border:none;
 	margin-top: -0.4rem;
-	padding-top: 0.5rem;
+	margin-right: 12rem;
+	
 }
 
 button:hover, button:focus{
@@ -48,8 +50,10 @@ button:hover, button:focus{
 
 @media screen  {
   .my-col {
-    font-size: 52px;
+    font-size: 40px;
     padding-top: 0;
+    text-align: left;
+
   }
 }
 
