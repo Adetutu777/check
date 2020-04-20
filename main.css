@@ -1,0 +1,39 @@
+
+body{
+
+	font-family:sans-serif; 
+	text-decoration: none;
+	outline: none;
+	padding: 0;
+	margin:0;
+	justify-content: center;
+	text-align: center;
+	display: block;
+	background-color: #af80b3ab;
+	color: black;
+	font-size: 22px;
+}
+
+
+.web{
+	margin: 2rem auto;
+	padding: 1rem 1.4rem;
+	max-width: 40rem;
+}
+.lorem{
+	display: none;
+}
+
+.chat{
+	display: none;
+}
+
+button{
+	color:black;
+	font-weight: bolder;
+	width: 120px;
+	padding: 0.5rem;
+	border-radius: 20px;
+	letter-spacing: 1px;
+	border:none;
+}
