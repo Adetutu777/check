@@ -31,12 +31,15 @@ body{
 
 button{
 	color:black;
+	font-size: 20px;
 	font-weight: bolder;
-	width: 120px;
+	width: 200px;
 	padding: 0.5rem;
 	border-radius: 20px;
-	letter-spacing: 1px;
+	letter-spacing: 1.5px;
 	border:none;
+	margin-top: -0.4rem;
+	padding-top: 0.5rem;
 }
 
 button:hover, button:focus{
