@@ -1,1 +1,1 @@
-A short code to say hello to friends & family and also reminding them to stay strong during the ongoing corona pandemic
+A JavaScript code to say hello to friends & family and also reminding them to stay strong during the ongoing corona pandemic
